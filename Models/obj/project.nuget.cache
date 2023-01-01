@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9NLsFHzjk07JHEUzg1FsVTpeaB42s1OJalTx6nMn+FBStP1e9yt4zmYh9cybxhH8hpHAHna9OMctSHBuh+W/hQ==",
+  "dgSpecHash": "EjP9dZ83uqhcDnYcGo0KnU1QLw2C1FdziMAGGsw3masxH2PqGB0yf9pguRZn7HX3ujyfNT5cPXpCRIyuXEO0qg==",
   "success": true,
-  "projectFilePath": "c:\\Microservices.RabbitMq.WebApi\\Models\\Models.csproj",
+  "projectFilePath": "C:\\Microservices.RabbitMq.WebApi\\Models\\Models.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

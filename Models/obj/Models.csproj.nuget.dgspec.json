@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Microservices.RabbitMq.WebApi\\Models\\Models.csproj": {}
+    "C:\\Microservices.RabbitMq.WebApi\\Models\\Models.csproj": {}
   },
   "projects": {
-    "c:\\Microservices.RabbitMq.WebApi\\Models\\Models.csproj": {
+    "C:\\Microservices.RabbitMq.WebApi\\Models\\Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Microservices.RabbitMq.WebApi\\Models\\Models.csproj",
+        "projectUniqueName": "C:\\Microservices.RabbitMq.WebApi\\Models\\Models.csproj",
         "projectName": "Models",
-        "projectPath": "c:\\Microservices.RabbitMq.WebApi\\Models\\Models.csproj",
+        "projectPath": "C:\\Microservices.RabbitMq.WebApi\\Models\\Models.csproj",
         "packagesPath": "C:\\Users\\ds185465\\.nuget\\packages\\",
-        "outputPath": "c:\\Microservices.RabbitMq.WebApi\\Models\\obj\\",
+        "outputPath": "C:\\Microservices.RabbitMq.WebApi\\Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ds185465\\AppData\\Roaming\\NuGet\\NuGet.Config",

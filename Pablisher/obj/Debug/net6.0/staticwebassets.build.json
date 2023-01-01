@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "PQw3SZF+FJQxM8PQ/PLlyYzWJ9NAmIPICg0y1Gp8HB8=",
+  "Source": "Microservices.RabbitMq.WebApi",
+  "BasePath": "_content/Microservices.RabbitMq.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -2,7 +2,7 @@
 using System;
 
 namespace Models;
-public class Tiket
+public class Ticket
 {
         public string UserName { get; set; }
         public DateTime BookedOn { get; set; }
